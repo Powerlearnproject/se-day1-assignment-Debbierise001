@@ -44,11 +44,9 @@ Example Scenario: Creating a new mobile app. You want to quickly launch a basic 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 
 ANSWERS
-A Software Developer- Writes and tests the code that makes up the software. They are responsible for turning project requirements into functional programs.
-
-ANSWER
-A Quality Assurance Engineer- Ensures the software works correctly by testing it for bugs and issues. They verify that the software meets quality standards before it's released.
-A Project Manager- Oversees the entire project, ensuring it stays on track, within budget, and meets deadlines. They coordinate the team's efforts, manage risks, and communicate with stakeholders.
+1. A Software Developer- Writes and tests the code that makes up the software. They are responsible for turning project requirements into functional programs.
+2. A Quality Assurance Engineer- Ensures the software works correctly by testing it for bugs and issues. They verify that the software meets quality standards before it's released.
+3. A Project Manager- Oversees the entire project, ensuring it stays on track, within budget, and meets deadlines. They coordinate the team's efforts, manage risks, and communicate with stakeholders.
 
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
@@ -60,9 +58,27 @@ Importance of Version Control Systems (VCS)- it helps developers track and manag
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 
+ANSWER
+Challenges faced by software engineers include-
+1. Changing Requirements: Requirements may change during the development cycle, leading to scope creep and project delays.
+2. Tight Deadlines: Pressure to deliver software products on schedule can result in rushed development and compromised quality.
+3. Technical Debt: Accrued from shortcuts or suboptimal solutions, technical debt can impede future development efforts and increase maintenance costs.
+Strategies for Overcoming these Challenges include-
+1. Effective communication
+2. The use of agile methodologies
+3. Prioritization of tasks.
+4. Regular reassessment of project goals and timelines.
+
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 
+ANSWER
+
+1. Unit Testing- Testing individual components or modules of software.
+2. Integration Testing- Testing interactions between different components or subsystems.
+3. System Testing- Testing the entire software system as a whole.
+4. Acceptance Testing- Testing the software against user requirements to ensure it meets user needs.
+Their importance in quality control is that they ensure software works correctly, meets user requirements, and is free of defects. They also help identify and fix problems before the software is released, ensuring a better and more reliable product.
 
 #Part 2: Introduction to AI and Prompt Engineering
 
