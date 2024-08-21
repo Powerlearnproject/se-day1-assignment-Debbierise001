@@ -84,6 +84,11 @@ Their importance in quality control is that they ensure software works correctly
 
 
 Define prompt engineering and discuss its importance in interacting with AI models.
+ANSWER
+Prompt Engineering is the act of crafting questions or instructions in a way that helps get the best possible responses from AI models.
+The importance of Prompt Engineering in interacting with AI models is that it makes your questions clear and concise.
 
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+
+ANSWER
