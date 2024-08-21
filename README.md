@@ -45,12 +45,18 @@ Describe the roles and responsibilities of a Software Developer, a Quality Assur
 
 ANSWERS
 A Software Developer- Writes and tests the code that makes up the software. They are responsible for turning project requirements into functional programs.
-A QualityAssurancee Engineer- Ensures the software works correctly by testing it for bugs and issues. They verify that the software meets quality standards before it's released.
+
+ANSWER
+A Quality Assurance Engineer- Ensures the software works correctly by testing it for bugs and issues. They verify that the software meets quality standards before it's released.
 A Project Manager- Oversees the entire project, ensuring it stays on track, within budget, and meets deadlines. They coordinate the team's efforts, manage risks, and communicate with stakeholders.
 
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 
+ANSWER
+Importance of integrated Development Environments (IDEs)- they are software tools that provide everything developers need to write, test, and debug code in one place. They make coding faster and easier by offering features like syntax highlighting, code suggestions, and error detection. Examples are Visual Studio Code, pycharm, and so on.
+
+Importance of Version Control Systems (VCS)- it helps developers track and manage changes to their code over time. It allows multiple developers to work on the same project without overwriting each other’s work, and it keeps a history of changes so you can revert to earlier versions if needed. Examples are Git, mercurial, and so on.
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 
