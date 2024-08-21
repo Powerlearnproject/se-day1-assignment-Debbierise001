@@ -20,13 +20,6 @@ ANSWER- Key milestones in the evolution of software engineering.
 List and briefly explain the phases of the Software Development Life Cycle.
 
 ANSWER- The software development life cycle includes
-1. Requirement
-2. Design
-3. Implementations
-4. Testing
-5. Development
-6. Maintenance
-
 1. Requirements: Gathering and documenting user needs and system requirements.
 2. Design: Creating high-level and detailed designs of the software architecture and user interface.
 3. Implementation: Writing code and building the software according to the design specifications.
