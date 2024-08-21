@@ -92,3 +92,6 @@ The importance of Prompt Engineering in interacting with AI models is that it ma
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 
 ANSWER
+VAGUE PROMPT- What is a computer?
+IMPROVED PROMPT- In a simple term that would be easily understood by anyone who has never come across the word computer before, define what a computer is. Add some pictures for a better understanding.
+REASON WHY THE IMPROVED PROMPT IS MORE EFFECTIVE- It is more clear, specific, and concised. This will help get a better response from AI models.
