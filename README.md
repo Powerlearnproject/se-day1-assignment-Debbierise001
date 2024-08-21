@@ -44,9 +44,9 @@ Example Scenario: Creating a new mobile app. You want to quickly launch a basic 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 
 ANSWERS
-A Software Developer-
-A QualityAssurancee Engineer-
-A Project Manager-
+A Software Developer- Writes and tests the code that makes up the software. They are responsible for turning project requirements into functional programs.
+A QualityAssurancee Engineer- Ensures the software works correctly by testing it for bugs and issues. They verify that the software meets quality standards before it's released.
+A Project Manager- Oversees the entire project, ensuring it stays on track, within budget, and meets deadlines. They coordinate the team's efforts, manage risks, and communicate with stakeholders.
 
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
